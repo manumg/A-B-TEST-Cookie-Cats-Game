@@ -19,5 +19,17 @@ The data is from 90,189 players that installed the game while the AB-test was ru
 
 -retention_7 - did the player come back and play 7 days after installing?
 
-When a player installed the game, he or she was randomly assigned to either gate_30 or gate_40
+When a player installed the game, he or she was randomly assigned to either gate_30 or gate_40.
+
+Project Plan:
+
+INDEX 
+
+1.Import packages and data
+
+2.Exploratory data analysis
+
+3.A/B Test
+
+4.Bootstrapping
 
