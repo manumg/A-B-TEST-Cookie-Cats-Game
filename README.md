@@ -1,7 +1,7 @@
 # A-B-TEST-Cookie-Cats-Game
 A/B Testing the puzzle mobile game Cookie Cats
 PROJECT DESCRIPTION:
-In this project I do an A/B test on a dataset from a mobile game called Cookie Cats. This dataset is from a DataCamp project, but the dataset has been publishedin Kaggle. I do not have a Datacamp account, I have used the public dataset from Kaggle. Link to the dataset:
+In this project I do an A/B test on a dataset from a mobile game called Cookie Cats. This dataset is from a DataCamp project, but the dataset has been published in Kaggle. I do not have a Datacamp account. I have used the public dataset from Kaggle. Link to the dataset:
 https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing?datasetId=272421&sortBy=voteCount
 
 Cookie Cats is a puzzle game. As players progress through the game, they will encounter gates that force them to wait some time before they can progress or make a purchase. In this project we analyze the result of an A/B test where the first gate of Cookie Cats was moved from level 30 to level 40.
