@@ -6,6 +6,8 @@ https://www.kaggle.com/datasets/yufengsui/mobile-games-ab-testing?datasetId=2724
 
 Cookie Cats is a puzzle game. As players progress through the game, they will encounter gates that force them to wait some time before they can progress or make a purchase. In this project we analyze the result of an A/B test where the first gate of Cookie Cats was moved from level 30 to level 40.
 
+
+
 Data Description:
 The data is from 90,189 players that installed the game while the AB-test was running. The variables are:
 
@@ -20,6 +22,8 @@ The data is from 90,189 players that installed the game while the AB-test was ru
 -retention_7 - did the player come back and play 7 days after installing?
 
 When a player installed the game, he or she was randomly assigned to either gate_30 or gate_40.
+
+
 
 Project Plan:
 
